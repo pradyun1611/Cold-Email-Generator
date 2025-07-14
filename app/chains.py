@@ -43,6 +43,7 @@ class Chain:
             Your job is to write a cold email to the hirer regarding the job mentioned above describing your capability 
             in fulfilling their needs.
             Also add the most relevant ones in points from the following links to showcase your portfolio: {link_list}
+            Do not add any unnecessary details about the projects done. Just add the links and label them as the respective portfolios.
             Remember you are John Doe, student at XYZ. 
             Do not provide a preamble.
             ### EMAIL (IMPORTANT: NO PREAMBLE):
